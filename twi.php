@@ -2,7 +2,7 @@
 ini_set( 'display_errors', 1 );
 ini_set('error_reporting', E_ALL);
 
-require dirname(__FILE__).'./vender/TwistOAuth-master/build/TwistOAuth.phar';
+require 'vender/TwistOAuth-master/build/TwistOAuth.phar';
 
 $consumer_key = '6OTBeMZDiN4Sh9HHIv1BVW5cn';
 $consumer_secret = 'wggPRikuqES4odsmRZw78dQCEvVML105lYf6hUo9O7fBgtC0ef';
