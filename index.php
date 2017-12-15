@@ -4,18 +4,18 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
 <meta name="viewport" content="width=320,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,minimal-ui">
-<meta name="apple-mobile-web-app-title" content="nowisee" />
-<meta name="description" content="音楽を中心に映像や物語が一体となって織りなされるクロスコンテンツプロジェクトnowisee(ノイズ)のオフィシャルサイト--現代の全ての若者たちへ、生きる意味を問う。" />
-<meta name="keywords" content="nowisee,ノイズ,クロスコンテンツ" />
-<meta property="og:title" content="nowisee">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="nowisee">
-<meta property="og:url" content="http://nowisee.jp/">
-<meta property="og:description" content="nowisee オフィシャルサイト">
-<meta property="og:image" content="http://nowisee.jp/images/ogp.jpg">
-<link rel="apple-touch-icon-precomposed apple-touch-icon" href="http://nowisee.jp/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="home" href="http://nowisee.jp/" title="nowisee" />
+<meta name="apple-mobile-web-app-title" content="" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta property="og:title" content="">
+<meta property="og:type" content="">
+<meta property="og:site_name" content="">
+<meta property="og:url" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<link rel="apple-touch-icon-precomposed apple-touch-icon" href="" />
+<link rel="shortcut icon" href="" />
+<link rel="home" href="" title="" />
 <title>パンツイ</title>
 
 <!--[if lt IE 10]>
