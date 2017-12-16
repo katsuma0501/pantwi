@@ -51,7 +51,7 @@ function h($str){
 $lat = h($_GET['lat']);
 $lon = h($_GET['lon']);
 
-$grunabi_api = "https://api.gnavi.co.jp/RestSearchAPI/20150630/?keyid=9543a647f939cabad7f1982c54167ea1&format=json&input_coordinates_mode=1&latitude=". $lat ."&longitude=". $lon ."&range=3&category_s=RSFST18007";
+$grunabi_api = "https://api.gnavi.co.jp/RestSearchAPI/20150630/?keyid=9543a647f939cabad7f1982c54167ea1&format=json&input_coordinates_mode=1&latitude=". $lat ."&longitude=". $lon ."&range=5&category_s=RSFST18007";
 
 $ret = get($grunabi_api);
 
